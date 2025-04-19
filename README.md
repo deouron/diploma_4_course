@@ -22,6 +22,6 @@
 В конечном итоге был создан фреймворк, который работает с многомерным пространством точек в МРТ-скане и возвращает .png снимок с выделенными аномалиями
 
 Пример: 
-![Пример выделения аномалий](IXI-T1/mri_comparison_with_features.png)
+![Пример выделения аномалий](IXI-T1/topological_methods_with_anomaly/mri_comparison_with_features.png)
 
 Датасет IXI-T1 доступен по ссылке: https://brain-development.org/ixi-dataset/, дата обр. 27.01.2025
