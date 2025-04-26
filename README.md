@@ -23,5 +23,8 @@
 
 Пример: 
 ![Пример выделения аномалий](IXI-T1/topological_methods_with_anomaly/mri_comparison_with_features.png)
+![Пример выделения аномалий](RSNA-ASNR-MICCAI/detailed_segmentation_results.png)
 
 Датасет IXI-T1 доступен по ссылке: https://brain-development.org/ixi-dataset/, дата обр. 27.01.2025
+
+Датасет Brain Tumor Segmentation (BraTS) доступен по ссылке: http://braintumorsegmentation.org, дата обр. 25.04.2025
